@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "269222985886",
+    "firebase_url": "https://mlkitdemo-b3606.firebaseio.com",
+    "project_id": "mlkitdemo-b3606",
+    "storage_bucket": "mlkitdemo-b3606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269222985886:android:ec4963e7c26bdd4d",
+        "android_client_info": {
+          "package_name": "lab.abhishek.mlkitdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269222985886-br9rvbpem68efgbsagpo999uv6oea874.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lab.abhishek.mlkitdemo",
+            "certificate_hash": "f5eb56720e9260fa20254d29043d7d80fa0e55f0"
+          }
+        },
+        {
+          "client_id": "269222985886-ov4d6ffjr0hs5n29vu8joq4re0bna07e.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "269222985886-ov4d6ffjr0hs5n29vu8joq4re0bna07e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFtiBqg8LmBaMsIjBjhkKGARmGNIewzWM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269222985886-ov4d6ffjr0hs5n29vu8joq4re0bna07e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
